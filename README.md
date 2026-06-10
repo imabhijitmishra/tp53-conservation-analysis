@@ -158,7 +158,6 @@ tp53-conservation-analysis/
 
 - **[report.md](report.md)** - Comprehensive methodology, results, and interpretation
 - **[DATA_DICTIONARY.md](DATA_DICTIONARY.md)** - Detailed explanation of all file formats
-- **[ANALYSIS_REPORT.md](ANALYSIS_REPORT.md)** - Quality assessment and improvement recommendations
 - **[data/species_metadata.txt](data/species_metadata.txt)** - Dataset provenance and tool information
 
 ---
