@@ -88,10 +88,11 @@ MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQAMDDLMLSPDDIEQWFTEDPGPDEAPRMPEAA...
   - ` ` (space) = Not conserved
 
 **Example Line:**
-```
-Homo_sapiens_NP_000537.3    MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQ   40
-Mus_musculus_BAA82343.1     MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQ   40
-                           **********************
+```\`\`\`
+Homo_sapiens_NP_000537.3       ---MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLS   34
+Mus_musculus_BAA82343.1        MTAMEESQSDISLELPLSQETFSGLWKLLPPEDILPS   37
+Rattus_norvegicus_NP_001416923 ---MEDSQSDMSIELPLSQETFSCLWKLLPPDDILPT   34
+                                   :*.** .* :*****.*****:***           
 ```
 
 **Interpretation Guide:**
