@@ -16,7 +16,7 @@ NCBI Protein Database
  Multiple Sequence Alignment
       (Clustal Omega)
           ↓
- ┌────────┬─────────┬─────────┐
+ ┌────────┬─────────┬
  ↓        ↓         ↓
 PIM     Trees    Alignment
  ↓        ↓         ↓
