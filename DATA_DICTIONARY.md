@@ -87,13 +87,21 @@ MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQAMDDLMLSPDDIEQWFTEDPGPDEAPRMPEAA...
   - `.` = Weakly conserved substitution
   - ` ` (space) = Not conserved
 
-**Example Line:**
-```\`\`\`
-Homo_sapiens_NP_000537.3       ---MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLS   34
-Mus_musculus_BAA82343.1        MTAMEESQSDISLELPLSQETFSGLWKLLPPEDILPS   37
-Rattus_norvegicus_NP_001416923 ---MEDSQSDMSIELPLSQETFSCLWKLLPPDDILPT   34
-                                   :*.** .* :*****.*****:***           
+**Example (first alignment block — N-terminal region):**
 ```
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+Danio_rerio_XP_073805887.1            -------------MAQNDSQEFAELWEK----NLISIQPPGGGSCWDIINDEEYLPGSFD   43
+Gallus_gallus_NP_990595.1             ---MAEE----MEPLLEPTEVFMDLWSMLPY-------------SMQQL----PLPEDHS   36
+Mus_musculus_BAA82343.1               MTAMEESQSDISLELPLSQETFSGLWKLLPPEDILPS-----PHCMDDL----LLPQDVE   51
+Rattus_norvegicus_NP_001416923.1      ---MEDSQSDMSIELPLSQETFSCLWKLLPPDDILPTTATGSPNSMEDL----FLPQDVA   53
+Homo_sapiens_NP_000537.3              ---MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPS--QAMDDLM----LSPDDIE   51
+Canis_lupus_familiaris_NP_001376147.1 ---MQEPQSELNIDPPLSQETFSELWNLLPENNVLSSELC--PAVDELL-----LPESVV   50
+                                                         : *  **.                   : :      * .  
+```
+- `-` characters are alignment gaps — positions where one species has no residue
+- The conservation line (bottom row) aligns symbol-by-symbol with the sequences above
+- Numbers on the right are cumulative non-gap residue counts per sequence
 
 **Interpretation Guide:**
 - Long stretches of `*` symbols indicate strong conservation
