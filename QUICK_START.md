@@ -55,8 +55,6 @@ tp53-conservation-analysis/
 │
 ├── README.md
 ├── report.md
-├── ANALYSIS_REPORT.md
-├── FINAL_SUMMARY.md
 ├── DATA_DICTIONARY.md
 ├── CONTRIBUTING.md
 ├── PROJECT_CHECKLIST.md
