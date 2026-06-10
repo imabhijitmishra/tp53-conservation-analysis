@@ -1,1 +1,78 @@
+TP53 Conservation Analysis Dataset Metadata
 
+Project: TP53 Conservation Analysis Across Vertebrate Species
+Author: Abhijit Mishra
+
+------------------------------------------------------------------
+
+Species: Homo sapiens
+Common Name: Human
+Protein: Cellular tumor antigen p53 isoform a
+Accession Number: NP_000537.3
+Sequence Length: 393 aa
+
+------------------------------------------------------------------
+
+Species: Mus musculus
+Common Name: Mouse
+Protein: p53
+Accession Number: BAA82343.1
+Sequence Length: 390 aa
+
+------------------------------------------------------------------
+
+Species: Rattus norvegicus
+Common Name: Rat
+Protein: Cellular tumor antigen p53 isoform a
+Accession Number: NP_001416923.1
+Sequence Length: 391 aa
+
+------------------------------------------------------------------
+
+Species: Canis lupus familiaris
+Common Name: Dog
+Protein: Cellular tumor antigen p53
+Accession Number: NP_001376147.1
+Sequence Length: 381 aa
+
+------------------------------------------------------------------
+
+Species: Gallus gallus
+Common Name: Chicken
+Protein: Cellular tumor antigen p53
+Accession Number: NP_990595.1
+Sequence Length: 367 aa
+
+------------------------------------------------------------------
+
+Species: Danio rerio
+Common Name: Zebrafish
+Protein: Cellular tumor antigen p53 isoform X1
+Accession Number: XP_073805887.1
+Sequence Length: 374 aa
+
+------------------------------------------------------------------
+
+Analysis Tools Used
+
+1. NCBI Protein Database
+   Purpose: Retrieval of TP53 protein sequences
+
+2. Clustal Omega (EMBL-EBI)
+   Purpose: Multiple sequence alignment, guide tree generation,
+            phylogenetic tree generation, and identity matrix calculation
+
+3. WebLogo
+   Purpose: Sequence conservation visualization
+
+4. Phylo.io
+   Purpose: Phylogenetic tree visualization
+
+------------------------------------------------------------------
+
+Dataset Summary
+
+Total Species Analyzed: 6
+Protein Studied: TP53 (Tumor Protein p53)
+Taxonomic Coverage: Vertebrates
+Analysis Type: Comparative Protein Sequence Analysis
