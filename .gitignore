@@ -1,0 +1,33 @@
+# Generated outputs (can be regenerated)
+results/*.aln-clustal_num
+results/*.phylotree
+results/*.tree
+results/*.pim
+
+# Binary figures (store externally or use LFS)
+figures/*.pdf
+figures/*.png
+
+# Temporary analysis files
+*.tmp
+*.log
+*~
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# OS files
+Thumbs.db
