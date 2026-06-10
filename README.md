@@ -1,4 +1,5 @@
-<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/0dee4692-aaef-4561-b6e9-8a260965daf2" /># 🧬 TP53 Conservation Analysis Across Vertebrate Species
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/0dee4692-aaef-4561-b6e9-8a260965daf2" /> © ChatGPT (OpenAI)
+# 🧬 TP53 Conservation Analysis Across Vertebrate Species
 
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Project-blue)
 ![Protein Analysis](https://img.shields.io/badge/Protein-TP53-green)
