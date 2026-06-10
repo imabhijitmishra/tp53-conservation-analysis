@@ -123,7 +123,6 @@ tp53-conservation-analysis/
 ├── README.md                      # This file
 ├── report.md                      # Detailed analysis report
 ├── DATA_DICTIONARY.md             # File format documentation
-├── ANALYSIS_REPORT.md             # Quality assessment
 ├── LICENSE                        # CC-BY 4.0 License
 └── .gitignore                     # Git ignore rules
 ```
